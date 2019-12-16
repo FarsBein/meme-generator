@@ -1,8 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## meme-generator
+## Random Meme Generator
 
-built using memeAPI and react. It allows users to create memes using random funny images.
+Built using memeAPI and react. It allows users to create memes using random funny images.
 
 
 ### To start
