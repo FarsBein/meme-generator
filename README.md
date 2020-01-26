@@ -1,6 +1,6 @@
 ## Random Meme Generator
 
-Built using memeAPI and react. It allows users to create memes using random funny images imported from an open api called memeAPI.
+Built using memeAPI and react. It allows users to create memes using random funny images imported from an open api called memeAPI. Mobile friendly.
 
 
 ### To start
