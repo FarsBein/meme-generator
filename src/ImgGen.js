@@ -9,11 +9,9 @@ class ImgGen extends Component {
             randomImg: 'http://i.imgflip.com/1bij.jpg',
             allImgs: []
         }
-        this.handleChange = this.handleChange.bind(this)
-        this.handleClick = this.handleClick.bind(this)
     }
 
-    handleChange(event){
+    handleChange = (event) => {
         const {name,value} = event.target
         this.setState({
             [name]: value
@@ -28,10 +26,11 @@ class ImgGen extends Component {
                     allImgs: res.data.memes
                 })
             })
+            .then(()=>console.log(this.state))
         
     }
 
-    handleClick(event){
+    handleClick = (event) => {
         event.preventDefault()
         const rand = Math.floor(Math.random() * this.state.allImgs.length)
         this.setState({
@@ -43,9 +42,9 @@ class ImgGen extends Component {
         return (
             <div>
                 <form className='meme-form'>
-                        <input type='text' name='topText' value={this.state.topText} onChange={this.handleChange} placeholder='Top Text'/>
-                        <input type='text' name='bottomText' value={this.state.bottomText} onChange={this.handleChange} placeholder='Bottom Text'/>
-                        <button onClick={this.handleClick}>Gen</button>
+                    <input type='text' name='topText' value={this.state.topText} onChange={this.handleChange} placeholder='Top Text'/>
+                    <input type='text' name='bottomText' value={this.state.bottomText} onChange={this.handleChange} placeholder='Bottom Text'/>
+                    <button onClick={this.handleClick}>Generate</button>
                 </form>
                 <div className='meme'>
                     <img src={this.state.randomImg} alt=''/>

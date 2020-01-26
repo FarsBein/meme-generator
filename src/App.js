@@ -7,7 +7,6 @@ function App() {
     <dev>
       <Header />
       <ImgGen />
-      
     </dev>
   );
 }
