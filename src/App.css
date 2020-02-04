@@ -11,8 +11,8 @@ header {
   height: 100px;
   display: flex;
   align-items: center;
-  background: #6441A5;  /* fallback for old browsers */
-  background: linear-gradient(to right, #2a0845, #6441A5);
+  background: rgb(65, 145, 165);  /* fallback for old browsers */
+  background: linear-gradient(to right, #0b6354, rgb(65, 165, 140));
 }
 
 header > img {
@@ -88,7 +88,8 @@ header > p {
   font-size: 25px;
   letter-spacing: 1.5px;
   color: white;
-  background: #6441A5;
+  border-radius: 4px;
+  background: rgb(65, 165, 140);
   width: 40%;
 }
 
