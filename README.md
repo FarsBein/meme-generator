@@ -6,8 +6,10 @@
 
 ## To Run meme-maker:
 
-Type Npm start on this file directory, Open http://localhost:3000 to view it in the browser
-<img src="images/preview.jpg" width="500" />
+Type Npm start on this file directory, Open http://localhost:3000 to view it in the browser:
+
+
+<img src="images/preview.JPG" width="500" />
 
 
 <img src="images/try.jpg" width="500" />
