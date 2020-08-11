@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.b25dd29e.chunk.css",
-    "main.js": "/portfolio/static/js/main.60a1742b.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.60a1742b.chunk.js.map",
-    "runtime-main.js": "/portfolio/static/js/runtime-main.20063050.js",
-    "runtime-main.js.map": "/portfolio/static/js/runtime-main.20063050.js.map",
-    "static/js/2.65e1d1ad.chunk.js": "/portfolio/static/js/2.65e1d1ad.chunk.js",
-    "static/js/2.65e1d1ad.chunk.js.map": "/portfolio/static/js/2.65e1d1ad.chunk.js.map",
-    "index.html": "/portfolio/index.html",
-    "precache-manifest.cf5126b8879ea6d9a2277ed41a4d0f84.js": "/portfolio/precache-manifest.cf5126b8879ea6d9a2277ed41a4d0f84.js",
-    "service-worker.js": "/portfolio/service-worker.js",
-    "static/css/main.b25dd29e.chunk.css.map": "/portfolio/static/css/main.b25dd29e.chunk.css.map",
-    "static/js/2.65e1d1ad.chunk.js.LICENSE": "/portfolio/static/js/2.65e1d1ad.chunk.js.LICENSE"
+    "main.css": "/meme-maker/static/css/main.b25dd29e.chunk.css",
+    "main.js": "/meme-maker/static/js/main.60a1742b.chunk.js",
+    "main.js.map": "/meme-maker/static/js/main.60a1742b.chunk.js.map",
+    "runtime-main.js": "/meme-maker/static/js/runtime-main.f8be4979.js",
+    "runtime-main.js.map": "/meme-maker/static/js/runtime-main.f8be4979.js.map",
+    "static/js/2.65e1d1ad.chunk.js": "/meme-maker/static/js/2.65e1d1ad.chunk.js",
+    "static/js/2.65e1d1ad.chunk.js.map": "/meme-maker/static/js/2.65e1d1ad.chunk.js.map",
+    "index.html": "/meme-maker/index.html",
+    "precache-manifest.fa945dd4903c7a23cd57adbbddd6f42b.js": "/meme-maker/precache-manifest.fa945dd4903c7a23cd57adbbddd6f42b.js",
+    "service-worker.js": "/meme-maker/service-worker.js",
+    "static/css/main.b25dd29e.chunk.css.map": "/meme-maker/static/css/main.b25dd29e.chunk.css.map",
+    "static/js/2.65e1d1ad.chunk.js.LICENSE": "/meme-maker/static/js/2.65e1d1ad.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.20063050.js",
+    "static/js/runtime-main.f8be4979.js",
     "static/js/2.65e1d1ad.chunk.js",
     "static/css/main.b25dd29e.chunk.css",
     "static/js/main.60a1742b.chunk.js"
