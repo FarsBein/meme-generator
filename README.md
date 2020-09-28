@@ -2,7 +2,7 @@
 - ⚛️ Built using react classes
 - 🖼️ Fetches random funny images from memeAPI
 - 📱 Mobile friendly
-
+The css part was greatly done by hasan9794
 
 ## To Run meme-maker:
 
